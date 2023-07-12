@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnMahasiswa" type="id" />
+    <item name="btnForex" type="id" />
+    <item name="btnCuaca" type="id" />
+    <item name="tampilImplisitButton" type="id" />
+</resources>
